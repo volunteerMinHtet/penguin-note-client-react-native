@@ -1,0 +1,38 @@
+### Home Screen Header ####
+--- Change UI ---
+- Add user avatar to the header 
+- Go to the user profile page when clicking on the user avatar
+
+
+### Private Note Screen (on click three dot) ###
+--- Show Modal ---
+- Edit
+- Delete
+- Change Theme
+
+
+### Private Note Screen (on click three dot) ###
+--- Show Modal ---
+- Save Public Note to current account
+- Change Theme
+
+
+### Add Note Screen ###
+--- Change UI ---
+- Add to public 
+
+--- Add Feature ---
+- Pin Note
+- Show toast when note is deleted
+- Show toast when note is edited
+
+
+### Setting Screen ###
+--- Add Feature ---
+- Go to edit account screen when click on account item
+- Change notification item to switch
+
+
+### Add user profile screen ###
+--- Add Feature ---
+- Show bookmark list
